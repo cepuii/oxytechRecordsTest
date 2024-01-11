@@ -1,0 +1,521 @@
+[
+  {
+    "id": 4372233,
+    "artists": [
+      {
+        "name": "Narmek"
+      }
+    ],
+    "name": "Fractured Material",
+    "image": "https://geo-media.beatport.com/image_size/400x400/c49df240-569d-4f6b-9154-6e0dc6fe2bb2.jpg",
+    "price": "$29.88",
+    "slug": "fractured-material",
+    "audio": "https://geo-samples.beatport.com/track/e0c6b821-55d7-4e5a-9c1f-3e0affdf68f4.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4372233/"
+  },
+  {
+    "id": 4355647,
+    "artists": [
+      {
+        "name": "Miro Dark"
+      }
+    ],
+    "name": "Energy",
+    "image": "https://geo-media.beatport.com/image_size/400x400/6d0d07e6-85d0-416f-a893-42de1ae2a1dd.jpg",
+    "price": "$4.98",
+    "slug": "energy",
+    "audio": "https://geo-samples.beatport.com/track/5fa59523-88e4-4f53-bdc1-cbfd67ede4e4.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4355647/"
+  },
+  {
+    "id": 4347276,
+    "artists": [
+      {
+        "name": "Jame Zname"
+      }
+    ],
+    "name": "Bullo",
+    "image": "https://geo-media.beatport.com/image_size/400x400/f33910c7-58f6-4318-8b39-3eba44456b92.jpg",
+    "price": "$3.38",
+    "slug": "bullo",
+    "audio": "https://geo-samples.beatport.com/track/fc639e49-aca8-4662-ae93-5f6fa4b962d2.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4347276/"
+  },
+  {
+    "id": 4337996,
+    "artists": [
+      {
+        "name": "Miro Dark"
+      }
+    ],
+    "name": "The Third Wave",
+    "image": "https://geo-media.beatport.com/image_size/400x400/50af5ecf-5fce-4053-93c0-f047ba6cd6a9.jpg",
+    "price": "$20.28",
+    "slug": "the-third-wave",
+    "audio": "https://geo-samples.beatport.com/track/35713884-3491-413a-ae13-5b890049bcce.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4337996/"
+  },
+  {
+    "id": 4321637,
+    "artists": [
+      {
+        "name": "THE DRWND SPDR"
+      }
+    ],
+    "name": "Redemption",
+    "image": "https://geo-media.beatport.com/image_size/400x400/11399a6a-8a42-48e3-8ba4-b62d8aaaabe1.jpg",
+    "price": "$5.07",
+    "slug": "redemption",
+    "audio": "https://geo-samples.beatport.com/track/ccd4eb85-cf56-4ed5-a4c8-0d06eef5a96e.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4321637/"
+  },
+  {
+    "id": 4303899,
+    "artists": [
+      {
+        "name": "Stereoimagery"
+      }
+    ],
+    "name": "Girlfriend",
+    "image": "https://geo-media.beatport.com/image_size/400x400/cc345995-b7c1-4581-a067-a365e9fca6c0.jpg",
+    "price": "$6.76",
+    "slug": "girlfriend",
+    "audio": "https://geo-samples.beatport.com/track/cd1ddf60-1089-4729-b726-9765af6a123a.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4303899/"
+  },
+  {
+    "id": 4294372,
+    "artists": [
+      {
+        "name": "TKKTNSH"
+      }
+    ],
+    "name": "Myself",
+    "image": "https://geo-media.beatport.com/image_size/400x400/34fa40c5-730b-47ab-a110-3292e076c21f.jpg",
+    "price": "$3.38",
+    "slug": "myself",
+    "audio": "https://geo-samples.beatport.com/track/5f0c87b4-d060-46b5-948e-1c358d604f63.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4294372/"
+  },
+  {
+    "id": 4294371,
+    "artists": [
+      {
+        "name": "Christian Tibor"
+      }
+    ],
+    "name": "Movito",
+    "image": "https://geo-media.beatport.com/image_size/400x400/64b0f46d-43b2-4b59-90d8-67cab1fad2e8.jpg",
+    "price": "$2.98",
+    "slug": "movito",
+    "audio": "https://geo-samples.beatport.com/track/5ef85135-428f-4438-9b62-8cf0b4bea494.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4294371/"
+  },
+  {
+    "id": 4286235,
+    "artists": [
+      {
+        "name": "Pseudo Pulse"
+      }
+    ],
+    "name": "Scratch",
+    "image": "https://geo-media.beatport.com/image_size/400x400/05e53434-335a-4e29-a70e-a036a84dd00c.jpg",
+    "price": "$4.47",
+    "slug": "scratch",
+    "audio": "https://geo-samples.beatport.com/track/683017df-e656-4b3b-92fb-9c16f35abda8.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4286235/"
+  },
+  {
+    "id": 4277807,
+    "artists": [
+      {
+        "name": "Leo Goddard"
+      }
+    ],
+    "name": "Mentality",
+    "image": "https://geo-media.beatport.com/image_size/400x400/0b911688-470d-4dc7-bd6b-e1d74a7831a5.jpg",
+    "price": "$5.96",
+    "slug": "mentality",
+    "audio": "https://geo-samples.beatport.com/track/52fb5a91-4371-4709-a560-e12dcde3eadd.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4277807/"
+  },
+  {
+    "id": 4271140,
+    "artists": [
+      {
+        "name": "ADAM D."
+      }
+    ],
+    "name": "Antigravity",
+    "image": "https://geo-media.beatport.com/image_size/400x400/e8f4f9e3-efef-4466-b184-9c5c7d36ecd2.jpg",
+    "price": "$2.98",
+    "slug": "antigravity",
+    "audio": "https://geo-samples.beatport.com/track/c59eb419-00fa-4c6c-a910-0ecae53fba58.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4271140/"
+  },
+  {
+    "id": 4237488,
+    "artists": [
+      {
+        "name": "Tomy Villacorta"
+      }
+    ],
+    "name": "Penetrate Me",
+    "image": "https://geo-media.beatport.com/image_size/400x400/56b6550c-3fe2-4835-b501-1412667a148f.jpg",
+    "price": "$2.98",
+    "slug": "penetrate-me",
+    "audio": "https://geo-samples.beatport.com/track/712132f0-9246-4da1-884b-b21f1e87d450.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4237488/"
+  },
+  {
+    "id": 4231075,
+    "artists": [
+      {
+        "name": "TKKTNSH"
+      }
+    ],
+    "name": "Epidemie & Warlord",
+    "image": "https://geo-media.beatport.com/image_size/400x400/d26129a2-bece-4a4e-98f0-edda41ba4f1e.jpg",
+    "price": "$4.47",
+    "slug": "epidemie-warlord",
+    "audio": "https://geo-samples.beatport.com/track/b7f0deb2-8452-42a2-84ba-86f1a6c8ebb0.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4231075/"
+  },
+  {
+    "id": 4231074,
+    "artists": [
+      {
+        "name": "Frenk HT"
+      }
+    ],
+    "name": "Jump It",
+    "image": "https://geo-media.beatport.com/image_size/400x400/00b4f618-515a-4ca3-bba7-5b43dd44606a.jpg",
+    "price": "$2.98",
+    "slug": "jump-it",
+    "audio": "https://geo-samples.beatport.com/track/c24d145d-ec1a-4181-9228-aa28a92a40ff.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4231074/"
+  },
+  {
+    "id": 4223229,
+    "artists": [
+      {
+        "name": "Subfractal"
+      },
+      {
+        "name": "Jared Pastore"
+      }
+    ],
+    "name": "9",
+    "image": "https://geo-media.beatport.com/image_size/400x400/bbcc6c5a-1ec8-449e-a0b8-128531db30f7.jpg",
+    "price": "$2.98",
+    "slug": "9",
+    "audio": "https://geo-samples.beatport.com/track/69616c59-0e88-4959-a2d3-de5bc1d8b3c2.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4223229/"
+  },
+  {
+    "id": 4214642,
+    "artists": [
+      {
+        "name": "Riolie"
+      }
+    ],
+    "name": "Sickness",
+    "image": "https://geo-media.beatport.com/image_size/400x400/ebc2dd60-5804-47ee-9016-5c80456f9f8c.jpg",
+    "price": "$2.98",
+    "slug": "sickness",
+    "audio": "https://geo-samples.beatport.com/track/37018824-4037-419f-b1c1-9ca62f915e2f.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4214642/"
+  },
+  {
+    "id": 4213820,
+    "artists": [
+      {
+        "name": "B_Scott"
+      }
+    ],
+    "name": "Back 2",
+    "image": "https://geo-media.beatport.com/image_size/400x400/039c4e15-5f70-4b0c-8f9b-3f59ed6fdd79.jpg",
+    "price": "$2.98",
+    "slug": "back-2",
+    "audio": "https://geo-samples.beatport.com/track/5c931287-f348-4f11-a262-42f73f03b545.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4213820/"
+  },
+  {
+    "id": 4213810,
+    "artists": [
+      {
+        "name": "Pogvation"
+      },
+      {
+        "name": "Rafader"
+      }
+    ],
+    "name": "Fullness of Love & Penumbra",
+    "image": "https://geo-media.beatport.com/image_size/400x400/704a8bc7-043d-421f-b89e-ddaf7d3fc20e.jpg",
+    "price": "$2.98",
+    "slug": "fullness-of-love-penumbra",
+    "audio": "https://geo-samples.beatport.com/track/1aca02cd-c3aa-4f99-8f57-4ac9b5f265e2.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4213810/"
+  },
+  {
+    "id": 4182882,
+    "artists": [
+      {
+        "name": "AleTrip"
+      }
+    ],
+    "name": "Haunted Bells",
+    "image": "https://geo-media.beatport.com/image_size/400x400/d14f25ec-dd98-404d-97c0-70f96bd93942.jpg",
+    "price": "$2.98",
+    "slug": "haunted-bells",
+    "audio": "https://geo-samples.beatport.com/track/9449c965-e7d3-4d93-ba8a-847b71df9445.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4182882/"
+  },
+  {
+    "id": 4182821,
+    "artists": [
+      {
+        "name": "Nabla"
+      }
+    ],
+    "name": "Eyn",
+    "image": "https://geo-media.beatport.com/image_size/400x400/cf2a78d7-b1fd-43db-b8f9-bcaed552128a.jpg",
+    "price": "$2.98",
+    "slug": "eyn",
+    "audio": "https://geo-samples.beatport.com/track/72976560-a152-4884-b427-0dd1ab8d4bc2.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4182821/"
+  },
+  {
+    "id": 4175143,
+    "artists": [
+      {
+        "name": "Phil Able"
+      },
+      {
+        "name": "Kei How"
+      },
+      {
+        "name": "Orhangazi Ayhan"
+      },
+      {
+        "name": "Venz"
+      },
+      {
+        "name": "Zoldiex"
+      },
+      {
+        "name": "LEZAMAboy"
+      },
+      {
+        "name": "Fusion (IL)"
+      },
+      {
+        "name": "Marco Josue"
+      },
+      {
+        "name": "FAUSTO-G"
+      },
+      {
+        "name": "LEVRE"
+      },
+      {
+        "name": "De Fusa"
+      },
+      {
+        "name": "Terra4beat"
+      },
+      {
+        "name": "Matthew Reid"
+      },
+      {
+        "name": "N. Nickel(H)"
+      },
+      {
+        "name": "Diabolusinlinea"
+      },
+      {
+        "name": "Sirch"
+      },
+      {
+        "name": "William Kiss"
+      },
+      {
+        "name": "NoiseDrug"
+      },
+      {
+        "name": "Tim Wittig"
+      },
+      {
+        "name": "2bee"
+      },
+      {
+        "name": "Jared Pastore"
+      },
+      {
+        "name": "Ireliya"
+      },
+      {
+        "name": "Shadym"
+      },
+      {
+        "name": "Alain Delay"
+      },
+      {
+        "name": "Otin"
+      },
+      {
+        "name": "Kölnermorgen"
+      },
+      {
+        "name": "P. Brock"
+      },
+      {
+        "name": "Sascha Lobeck"
+      },
+      {
+        "name": "Sandro Galli"
+      },
+      {
+        "name": "D.N.S"
+      },
+      {
+        "name": "Kai Pattenberg"
+      }
+    ],
+    "name": "Oxytech 10 Years",
+    "image": "https://geo-media.beatport.com/image_size/400x400/371f7332-0b88-4d7c-9ac8-ddf169aff75c.jpg",
+    "price": "$44.70",
+    "slug": "oxytech-10-years",
+    "audio": "https://geo-samples.beatport.com/track/5f34d4dd-a2f4-4b69-9e75-7b71782982f7.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4175143/"
+  },
+  {
+    "id": 4175115,
+    "artists": [
+      {
+        "name": "Sergio Casas"
+      },
+      {
+        "name": "Venz"
+      }
+    ],
+    "name": "Finding Space",
+    "image": "https://geo-media.beatport.com/image_size/400x400/4ec52c80-2416-4e1e-91ac-8d60be45ebab.jpg",
+    "price": "$2.98",
+    "slug": "finding-space",
+    "audio": "https://geo-samples.beatport.com/track/5811bb83-7c85-439d-b970-6b9d1e6d6afb.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4175115/"
+  },
+  {
+    "id": 4175114,
+    "artists": [
+      {
+        "name": "MAHG.NO"
+      }
+    ],
+    "name": "My World",
+    "image": "https://geo-media.beatport.com/image_size/400x400/4e6df9fd-fb98-4699-b1dc-e7ef43237966.jpg",
+    "price": "$4.47",
+    "slug": "my-world",
+    "audio": "https://geo-samples.beatport.com/track/51c26f1c-134a-4a05-92a9-3f838bd32d21.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4175114/"
+  },
+  {
+    "id": 4169953,
+    "artists": [
+      {
+        "name": "Nik Noriz"
+      }
+    ],
+    "name": "Mind of Its Own",
+    "image": "https://geo-media.beatport.com/image_size/400x400/6b9b8adf-05c0-4045-b656-44004aef73e0.jpg",
+    "price": "$2.98",
+    "slug": "mind-of-its-own",
+    "audio": "https://geo-samples.beatport.com/track/6ed322d2-dc35-436d-8f1e-9d3a94f0eff7.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4169953/"
+  },
+  {
+    "id": 4159852,
+    "artists": [
+      {
+        "name": "Squid Lunge"
+      }
+    ],
+    "name": "Stumbling",
+    "image": "https://geo-media.beatport.com/image_size/400x400/ef48083e-d38e-44de-a53f-aa7e991edf57.jpg",
+    "price": "$4.47",
+    "slug": "stumbling",
+    "audio": "https://geo-samples.beatport.com/track/3eacb405-8c43-4918-916a-3c63baeaa240.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4159852/"
+  },
+  {
+    "id": 4159845,
+    "artists": [
+      {
+        "name": "Hitchay"
+      }
+    ],
+    "name": "The Illuminati",
+    "image": "https://geo-media.beatport.com/image_size/400x400/00af5448-51a0-4ba0-92a5-e5b1236b3648.jpg",
+    "price": "$5.96",
+    "slug": "the-illuminati",
+    "audio": "https://geo-samples.beatport.com/track/86af0f3e-9d58-49fd-8649-32170c04db02.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4159845/"
+  },
+  {
+    "id": 4159843,
+    "artists": [
+      {
+        "name": "DJ Baloo"
+      }
+    ],
+    "name": "Techno Pelicano",
+    "image": "https://geo-media.beatport.com/image_size/400x400/75600dc7-32ed-4928-82cc-32d9305b7a3a.jpg",
+    "price": "$2.98",
+    "slug": "techno-pelicano",
+    "audio": "https://geo-samples.beatport.com/track/2954004f-41dc-4f5a-8402-33a5e52a23e3.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4159843/"
+  },
+  {
+    "id": 4151950,
+    "artists": [
+      {
+        "name": "Terra4beat"
+      }
+    ],
+    "name": "Ukraine Power",
+    "image": "https://geo-media.beatport.com/image_size/400x400/a267d33b-d770-4764-bb2d-b5ae5f22617e.jpg",
+    "price": "$16.39",
+    "slug": "ukraine-power",
+    "audio": "https://geo-samples.beatport.com/track/76091198-ec26-4df1-80cd-8a0f14da7cc9.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4151950/"
+  },
+  {
+    "id": 4145021,
+    "artists": [
+      {
+        "name": "ADAM D."
+      }
+    ],
+    "name": "Invasion",
+    "image": "https://geo-media.beatport.com/image_size/400x400/95c524e8-90d0-44eb-b6f5-6812c8d1211c.jpg",
+    "price": "$2.98",
+    "slug": "invasion",
+    "audio": "https://geo-samples.beatport.com/track/165fbe75-2ada-481b-9868-443ecc33e65e.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4145021/"
+  },
+  {
+    "id": 4104534,
+    "artists": [
+      {
+        "name": "Rodri XXX"
+      }
+    ],
+    "name": "Pyramids",
+    "image": "https://geo-media.beatport.com/image_size/400x400/a0fbfc27-7ca2-4588-b7cd-3335d9daff0c.jpg",
+    "price": "$5.96",
+    "slug": "pyramids",
+    "audio": "https://geo-samples.beatport.com/track/2a97e438-66ab-47be-bfa1-539995907366.LOFI.mp3",
+    "url": "https://api.beatport.com/v4/catalog/releases/4104534/"
+  }
+]
